@@ -1,0 +1,45 @@
+h1,
+h2,
+h3 {
+    color: orange;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.recipe {
+    background-color: lightgoldenrodyellow;
+    color: green;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button {
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home-links ul {
+    background-color: pink;
+    text-align: center;
+    font-size: 18px;
+    list-style-type: none;
+}
+
+#title h1 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: bolder;
+    background-color: black;
+}
